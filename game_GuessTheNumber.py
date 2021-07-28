@@ -65,7 +65,7 @@ def getScecretNum():
         # This will loop, starting at 1 and ending at 'NUM_DIGITS', exporting
         # the first shuffled digit, then the first and second, then the first
         # and second and third, and so on. It stops at 'NUM_DIGITS' length,
-        # and that is what is returned as 'secretNum'
+        # and that is what is returned as 'secretNum'.
 
     return secretNum
 
