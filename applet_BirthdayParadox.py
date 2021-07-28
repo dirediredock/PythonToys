@@ -8,9 +8,8 @@
 import datetime
 import random
 
-MONTHS = ('January', 'February', 'March', 'April', 'May',
-          'June', 'July', 'August', 'September', 'October',
-          'November', 'December')
+MONTHS = ('January', 'February', 'March', 'April', 'May', 'June',
+          'July', 'August', 'September', 'October', 'November', 'December')
 
 numberOfPeople = 42
 
@@ -32,7 +31,7 @@ for i in range(numberOfPeople):
 print('\nLIST OF MATCHING BIRTHDAYS\n')
 
 if len(birthdays) == len(set(birthdays)):
-    print('All birthdays are unique')
+    print('All birthdays are unique.')
 else:
     for a, birthdayA in enumerate(birthdays):
         for b, birthdayB in enumerate(birthdays[a + 1:]):
