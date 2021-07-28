@@ -1,4 +1,3 @@
-
 # THE BIRTHDAY PARADOX
 
 # The Birthday Paradox is not really a paradox, but the unintuitively
@@ -13,7 +12,7 @@ MONTHS = ('January', 'February', 'March', 'April', 'May',
           'June', 'July', 'August', 'September', 'October',
           'November', 'December')
 
-numberOfPeople = 20
+numberOfPeople = 42
 
 birthdays = []
 matching = []
