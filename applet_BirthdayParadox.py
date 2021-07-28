@@ -47,7 +47,7 @@ matchPercent = len(matching)/numberOfPeople * 100
 if len(matching) != 1:
     print('\nThere are {} matching birthdays '.format(len(matching)) +
           'out of {}, '.format(numberOfPeople) +
-          'or {}% match rate.\n'.format(int(matchPercent)))
+          'or a {}% match rate.\n'.format(int(matchPercent)))
 else:
     print('\nThere is 1 matching birthday ' +
           'out of {}, '.format(numberOfPeople) +
