@@ -1,6 +1,6 @@
 # Pokemon Attack Calculator
 
-# Source: https://niantic.helpshift.com/a/pokemon-go/?s=gyms-battle&f=type-effectiveness-in-battle&l=en&p=web
+# Data source: https://niantic.helpshift.com/a/pokemon-go/?s=gyms-battle&f=type-effectiveness-in-battle&l=en&p=web
 
 print(
     """
@@ -12,24 +12,24 @@ print(
     Ground and Poison attacking Steel where the target is immune, so there is
     "no effect", or zero damage. Listed below are the 18 Pokemon types:
 
-    01 Normal
-    02 Fire
-    03 Water
-    04 Grass
-    05 Electric
-    06 Ice
-    07 Fighting
-    08 Poison
-    09 Ground
-    10 Flying
-    11 Psychic
-    12 Bug
-    13 Rock
-    14 Ghost
-    15 Dragon
-    16 Dark
-    17 Steel
-    18 Fairy
+    - Normal
+    - Fire
+    - Water
+    - Grass
+    - Electric
+    - Ice
+    - Fighting
+    - Poison
+    - Ground
+    - Flying
+    - Psychic
+    - Bug
+    - Rock
+    - Ghost
+    - Dragon
+    - Dark
+    - Steel
+    - Fairy
     """
 )
 
@@ -54,12 +54,6 @@ array = [
     [2, 1, 2, 2, 2, 2, 3, 1, 2, 2, 2, 2, 2, 2, 3, 3, 1, 2],
 ]
 
-attack = input("From the list above, pick your attack type: ")
-target = input("Now pick the type of the Pokemon that receives the attack: ")
-
-attack = attack.lower()
-target = target.lower()
-
 lookup = {
     "normal": 0,
     "fire": 1,
@@ -81,7 +75,26 @@ lookup = {
     "fairy": 17,
 }
 
+message1 = "From the list above, pick your attack type: "
+message2 = "Now pick the type of the Pokemon that receives the attack: "
+tryAgain = "\nInvalid input, please try again:"
+
+while True:
+    attack = input(message1).lower()
+    if attack not in lookup:
+        print(tryAgain)
+    else:
+        break
+
 indexAttack = lookup[attack]
+
+while True:
+    target = input(message2).lower()
+    if target not in lookup:
+        print(tryAgain)
+    else:
+        break
+
 indexTarget = lookup[target]
 
 list = array[indexAttack]
@@ -96,10 +109,13 @@ if value == 3:
         + target.capitalize()
         + ", it is super effective."
     )
-
 if value == 2:
-    print(attack.capitalize() + " attacks " + target.capitalize() + ", regular damage.")
-
+    print(
+        attack.capitalize()
+        + " attacks "
+        + target.capitalize()
+        + ", it does regular damage."
+    )
 if value == 1:
     print(
         attack.capitalize()
@@ -107,7 +123,6 @@ if value == 1:
         + target.capitalize()
         + ", it is not very effective."
     )
-
 if value == 0:
     print(
         attack.capitalize()
