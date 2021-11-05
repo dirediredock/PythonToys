@@ -28,7 +28,7 @@ applet_concentricCircles.py
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_onionLayers.png" width="100%">
+<img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_onionRings.png" width="100%">
 
 <p align = "center">
 applet_onionLayers.py
