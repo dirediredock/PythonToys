@@ -20,7 +20,7 @@ applet_turtleBlackHole.py
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_concentricCircles.png" width="100%">
+<img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_turtleCircles.png" width="100%">
 
 <p align = "center">
 applet_concentricCircles.py
