@@ -43,3 +43,11 @@ applet_hexWalk.py
 </p>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_deepSpiral.png" width="100%">
+
+<p align = "center">
+applet_deepSpiral.py
+</p>
+
+<br/>
