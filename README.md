@@ -35,3 +35,11 @@ applet_onionLayers.py
 </p>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_hexWalk.png" width="100%">
+
+<p align = "center">
+applet_hexWalk.py
+</p>
+
+<br/>
