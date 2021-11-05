@@ -2,4 +2,6 @@
 
 Eclectic collection of Pythonic applets and toys.
 
-<img src="https://raw.githubusercontent.com/dirediredock/GeoreferenceRasters/main/figuresGitHub/IntertidalLoss.jpg" width="100%">
+`applet_turtleSpiral.py`
+
+<img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_turtleSpiral.png" width="100%">
