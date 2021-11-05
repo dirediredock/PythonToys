@@ -51,3 +51,11 @@ Eclectic collection of Pythonic applets and toys.
 </p>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_fractalCoil.png" width="100%">
+
+<p align = "center">
+  <a href="https://github.com/dirediredock/PythonToys/blob/main/applet_fractalCoil.py">applet_fractalCoil.py</a>
+</p>
+
+<br/>
