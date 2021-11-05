@@ -7,7 +7,7 @@ Eclectic collection of Pythonic applets and toys.
 <img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_turtleSpiral.png" width="100%">
 
 <p align = "center">
-<a href="https://github.com/dirediredock/PythonToys/blob/main/applet_turtleSpiral.py">applet_turtleSpiral.py</a>
+  <a href="https://github.com/dirediredock/PythonToys/blob/main/applet_turtleSpiral.py">applet_turtleSpiral.py</a>
 </p>
 
 <br/>
@@ -15,7 +15,7 @@ Eclectic collection of Pythonic applets and toys.
 <img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_turtleBlackHole.png" width="100%">
 
 <p align = "center">
-applet_turtleBlackHole.py
+  <a href="https://github.com/dirediredock/PythonToys/blob/main/applet_turtleBlackHole.py">applet_turtleBlackHole.py</a>
 </p>
 
 <br/>
@@ -23,7 +23,7 @@ applet_turtleBlackHole.py
 <img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_turtleCircles.png" width="100%">
 
 <p align = "center">
-applet_concentricCircles.py
+  <a href="https://github.com/dirediredock/PythonToys/blob/main/applet_concentricCircles.py">applet_concentricCircles.py</a>
 </p>
 
 <br/>
@@ -31,7 +31,7 @@ applet_concentricCircles.py
 <img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_onionRings.png" width="100%">
 
 <p align = "center">
-applet_onionLayers.py
+  <a href="https://github.com/dirediredock/PythonToys/blob/main/applet_onionLayers.py">applet_onionLayers.py</a>
 </p>
 
 <br/>
@@ -39,7 +39,7 @@ applet_onionLayers.py
 <img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_hexWalk.png" width="100%">
 
 <p align = "center">
-applet_hexWalk.py
+  <a href="https://github.com/dirediredock/PythonToys/blob/main/applet_hexWalk.py">applet_hexWalk.py</a>
 </p>
 
 <br/>
@@ -47,7 +47,7 @@ applet_hexWalk.py
 <img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_deepSpiral.png" width="100%">
 
 <p align = "center">
-applet_deepSpiral.py
+  <a href="https://github.com/dirediredock/PythonToys/blob/main/applet_deepSpiral.py">applet_deepSpiral.py</a>
 </p>
 
 <br/>
