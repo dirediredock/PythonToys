@@ -59,3 +59,11 @@ Eclectic collection of Pythonic applets and toys.
 </p>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_anjunaBeeps.png" width="100%">
+
+<p align = "center">
+  <a href="https://github.com/dirediredock/PythonToys/blob/main/applet_anjunaBeeps.py">applet_anjunaBeeps.py</a>
+</p>
+
+<br/>
