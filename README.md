@@ -12,6 +12,14 @@ Eclectic collection of Pythonic applets and toys.
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_naturalLanguageSquare.png" width="100%">
+
+<p align = "center">
+  <a href="https://github.com/dirediredock/PythonToys/blob/main/applet_naturalLanguageSquare.py">applet_turtleSpiral.py</a>
+</p>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/dirediredock/PythonToys/main/Figures/applet_turtleBlackHole.png" width="100%">
 
 <p align = "center">
